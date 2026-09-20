@@ -1,0 +1,22 @@
+body {font-family: Arial, Sans-serif;
+      Background: #808aa5;
+     }
+
+.profile {
+        max-width: 520px;
+        margin: 48px auto;
+        padding: 32px;
+        background: white;
+        border-radius: 20px;
+     }
+.skills { display: flex; gap: 8px; }
+
+#connect {
+        margin-top: 24px;
+        padding: 12px 24px;
+        border: darkgray;
+        border-radius: 5px;
+        background: #acb0bd;
+        shape-outside: margin-box;
+        
+}
